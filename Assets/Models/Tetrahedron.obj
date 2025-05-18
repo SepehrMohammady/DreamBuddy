@@ -1,0 +1,27 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+mtllib Tetrahedron.obj.mtl
+
+# 4 vertex positions
+v  -72 59 32.8784
+v  -72 82.2485 0
+v  -92.1338 47.3757 0
+v  -51.8662 47.3757 0
+
+# 0 UV coordinates
+
+# 4 vertex normals
+vn -0.816497 0.471405 0.333333
+vn 0.816497 0.471405 0.333333
+vn 0 -0.942809 0.333333
+vn 0 0 -1
+
+# Mesh '<STL_BINARY>' with 4 faces
+g <STL_BINARY>
+usemtl DefaultMaterial
+f  1//1 2//1 3//1
+f  1//2 4//2 2//2
+f  4//3 1//3 3//3
+f  4//4 3//4 2//4
+
