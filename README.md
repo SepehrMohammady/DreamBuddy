@@ -1,10 +1,12 @@
+# DreamBuddy
+
 ![DreamBuddy Gameplay GIF](gameplay.gif)
 
 The DreamBuddy project is a simulator designed to help players relax and de-stress by creating virtual environments tailored to their preferences. The core idea is to provide an escape for individuals experiencing mental fatigue or stress, allowing them to rejuvenate in a scenario resembling their dream place of relaxation.
 
 This project was developed by Sepehr Mohammady as part of the "Computer Games and Simulation" course at the University of Genoa.
 
-**Play the Prototype:** [Download the latest build from GitHub Releases](URL_TO_YOUR_GITHUB_RELEASE_PAGE_FOR_DREAMBUDDY)
+**Play the Prototype:** [Download the latest build from GitHub Releases](https://github.com/SepehrMohammady/DreamBuddy/releases/tag/v0.1.0)
 
 ## Project Concept
 
