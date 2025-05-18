@@ -55,7 +55,7 @@ This repository contains the essential scripts and project files to open and exp
     *   [Butterfly (Animated)] - [Link to Asset Store page](https://assetstore.unity.com/packages/3d/characters/animals/insects/butterfly-animated-58355)
     *   [Toon Fox] - [Link to Asset Store page](https://assetstore.unity.com/packages/3d/characters/animals/toon-fox-183005)
     *   [Fantasy Skybox FREE] - [Link to Asset Store page](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353)
-    *   [Textures] - [Link to Asset Store page](https://polyhaven.com/textures)
+    *   [Textures] - [Link to Poly Haven page](https://polyhaven.com/textures)
 
     
     *   If you do not import these, scenes may appear with missing textures (pink) or missing objects. The core scripts will still be present.
