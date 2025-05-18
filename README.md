@@ -64,7 +64,7 @@ This repository contains the essential scripts and project files to open and exp
 ## Playable Build
 
 A playable prototype build is available:
-*   **[Download from GitHub Releases](URL_TO_YOUR_GITHUB_RELEASE_PAGE_FOR_DREAMBUDDY)**
+*   **[Download from GitHub Releases]([URL_TO_YOUR_GITHUB_RELEASE_PAGE_FOR_DREAMBUDDY](https://github.com/SepehrMohammady/DreamBuddy/releases/tag/v0.1.0))**
 
 ## Current Limitations
 
